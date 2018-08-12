@@ -1,0 +1,13 @@
+.Details {
+	width: 40%;
+	padding: 16px;
+	margin: 16px;
+	background-color: #eee;
+	border-radius: 3px;
+	box-shadow: 0 2px 3px #ddd;
+
+}
+
+.Details:hover {
+	padding: 58px;
+}
